@@ -1,0 +1,602 @@
+[
+   {
+      "name": "Ford Mustang 1967",
+      "imageSrc": "/assets/car-1.jpeg",
+      "year": 2021,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.3,
+      "type": "Manual",
+      "price": "500"
+   },
+   {
+      "name": "Audi E-Tron",
+      "imageSrc": "/assets/car-2.webp",
+      "year": 2020,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.3,
+      "type": "Automatic",
+      "price": "700"
+   },
+   {
+      "name": "Audi Q3 Sport back",
+      "imageSrc": "/assets/car-3.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.6,
+      "type": "Automatic",
+      "price": "400"
+   },
+   {
+      "name": "BMW X5",
+      "imageSrc": "/assets/car-4.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Manual",
+      "price": "300"
+   },
+   {
+      "name": "BMW Z4",
+      "imageSrc": "/assets/car-5.webp",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 5.8,
+      "type": "Automatic",
+      "price": "500"
+   },
+   {
+      "name": "Bugatti Chiron Sport",
+      "imageSrc": "/assets/car-6.webp",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Manual",
+      "price": "900"
+   },
+   {
+      "name": "Force Ghurka",
+      "imageSrc": "/assets/car-7.webp",
+      "year": 2020,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 4.5,
+      "type": "Manual",
+      "price": "200"
+   },
+   {
+      "name": "Ford Mustang GT500",
+      "imageSrc": "/assets/car-8.jpg",
+      "year": 2022,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 5.8,
+      "type": "Manual",
+      "price": "400"
+   },
+   {
+      "name": "Honda Amaze",
+      "imageSrc": "/assets/car-9.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.8,
+      "type": "Automatic",
+      "price": "100"
+   },
+   {
+      "name": "Honda City",
+      "imageSrc": "/assets/car-10.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Automatic",
+      "price": "80"
+   },
+   {
+      "name": "Honda Elevate",
+      "imageSrc": "/assets/car-11.webp",
+      "year": 2021,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.9,
+      "type": "Automatic",
+      "price": "120"
+   },
+   {
+      "name": "Hyundai Creta",
+      "imageSrc": "/assets/car-12.webp",
+      "year": 2023,
+      "peopleCount": 5,
+      "gasType": "Gasoline",
+      "range": 7.5,
+      "type": "Automatic",
+      "price": "150"
+   },
+   {
+      "name": "Hyundai Exter",
+      "imageSrc": "/assets/car-13.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.3,
+      "type": "Automatic",
+      "price": "200"
+   },
+   {
+      "name": "Hyundai I20",
+      "imageSrc": "/assets/car-14.webp",
+      "year": 2020,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.9,
+      "type": "Manual",
+      "price": "70"
+   },
+   {
+      "name": "Hyundai Venue",
+      "imageSrc": "/assets/car-15.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.9,
+      "type": "Automatic",
+      "price": "95"
+   },
+   {
+      "name": "Jaguar F-Type",
+      "imageSrc": "/assets/car-16.webp",
+      "year": 2022,
+      "peopleCount": 2,
+      "gasType": "Electric",
+      "range": 8.4,
+      "type": "Automatic",
+      "price": "450"
+   },
+   {
+      "name": "Jeep Avenger",
+      "imageSrc": "/assets/car-17.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Automatic",
+      "price": "250"
+   },
+   {
+      "name": "Jeep Grand Cherokee",
+      "imageSrc": "/assets/car-18.webp",
+      "year": 2023,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Automatic",
+      "price": "300"
+   },
+   {
+      "name": "Jeep Wrangler",
+      "imageSrc": "/assets/car-19.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 5.8,
+      "type": "Manual",
+      "price": "350"
+   },
+   {
+      "name": "KIA Carnival",
+      "imageSrc": "/assets/car-20.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.8,
+      "type": "Automatic",
+      "price": "180"
+   },
+   {
+      "name": "KIA EV6",
+      "imageSrc": "/assets/car-21.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.1,
+      "type": "Automatic",
+      "price": "450"
+   },
+   {
+      "name": "KIA Seltos",
+      "imageSrc": "/assets/car-22.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.9,
+      "type": "Automatic",
+      "price": "210"
+   },
+   {
+      "name": "KIA Sonet",
+      "imageSrc": "/assets/car-23.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Automatic",
+      "price": "190"
+   },
+   {
+      "name": "KIA Sportage",
+      "imageSrc": "/assets/car-24.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.5,
+      "type": "Automatic",
+      "price": "220"
+   },
+   {
+      "name": "Lamborghini Huracan",
+      "imageSrc": "/assets/car-25.webp",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Automatic",
+      "price": "750"
+   },
+   {
+      "name": "Lamborghini Revuelto",
+      "imageSrc": "/assets/car-26.webp",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 7.3,
+      "type": "Automatic",
+      "price": "800"
+   },
+   {
+      "name": "Mahindra Marazzo",
+      "imageSrc": "/assets/car-27.webp",
+      "year": 2023,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 8.1,
+      "type": "Automatic",
+      "price": "110"
+   },
+   {
+      "name": "Mahindra Scorpio",
+      "imageSrc": "/assets/car-28.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 4.9,
+      "type": "Automatic",
+      "price": "220"
+   },
+   {
+      "name": "Mahindra Thar",
+      "imageSrc": "/assets/car-29.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 5.7,
+      "type": "Automatic",
+      "price": "140"
+   },
+   {
+      "name": "Mahindra XUV700",
+      "imageSrc": "/assets/car-30.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 6.0,
+      "type": "Automatic",
+      "price": "150"
+   },
+   {
+      "name": "Maruti Etriga",
+      "imageSrc": "/assets/car-31.webp",
+      "year": 2023,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 5.9,
+      "type": "Automatic",
+      "price": "95"
+   },
+   {
+      "name": "Maruti Fronx",
+      "imageSrc": "/assets/car-32.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.1,
+      "type": "Automatic",
+      "price": "100"
+   },
+   {
+      "name": "Maruti Jimmy",
+      "imageSrc": "/assets/car-33.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.9,
+      "type": "Automatic",
+      "price": "125"
+   },
+   {
+      "name": "Maruti Suzuki Brezza",
+      "imageSrc": "/assets/car-34.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.4,
+      "type": "Automatic",
+      "price": "145"
+   },
+   {
+      "name": "Maruti Suzuki Swift",
+      "imageSrc": "/assets/car-35.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 8.1,
+      "type": "Automatic",
+      "price": "110"
+   },
+   {
+      "name": "Mercedes Benz G-Class",
+      "imageSrc": "/assets/car-36.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Automatic",
+      "price": "550"
+   },
+   {
+      "name": "Mercedes Benz E-Class",
+      "imageSrc": "/assets/car-37.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.4,
+      "type": "Automatic",
+      "price": "610"
+   },
+   {
+      "name": "MG Astor",
+      "imageSrc": "/assets/car-38.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.3,
+      "type": "Automatic",
+      "price": "350"
+   },
+   {
+      "name": "MG Baojun 510",
+      "imageSrc": "/assets/car-39.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.7,
+      "type": "Automatic",
+      "price": "330"
+   },
+   {
+      "name": "MG Gloster",
+      "imageSrc": "/assets/car-40.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.8,
+      "type": "Automatic",
+      "price": "320"
+   },
+   {
+      "name": "MG Hector",
+      "imageSrc": "/assets/car-41.webp",
+      "year": 2023,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.0,
+      "type": "Automatic",
+      "price": "550"
+   },
+   {
+      "name": "MG Marvel X",
+      "imageSrc": "/assets/car-42.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.7,
+      "type": "Automatic",
+      "price": "380"
+   },
+   {
+      "name": "MG ZS EV",
+      "imageSrc": "/assets/car-43.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.5,
+      "type": "Automatic",
+      "price": "390"
+   },
+   {
+      "name": "Nissan GTR R35",
+      "imageSrc": "/assets/car-44.webp",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 6.9,
+      "type": "Automatic",
+      "price": "590"
+   },
+   {
+      "name": "Nissan Magnite",
+      "imageSrc": "/assets/car-45.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.3,
+      "type": "Automatic",
+      "price": "450"
+   },
+   {
+      "name": "Renault Kiger",
+      "imageSrc": "/assets/car-46.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Automatic",
+      "price": "290"
+   },
+   {
+      "name": "Renault KWID",
+      "imageSrc": "/assets/car-47.webp",
+      "year": 2022,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 6.6,
+      "type": "Automatic",
+      "price": "300"
+   },
+   {
+      "name": "Skoda Kushaq",
+      "imageSrc": "/assets/car-48.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Automatic",
+      "price": "400"
+   },
+   {
+      "name": "Skoda Slavia",
+      "imageSrc": "/assets/car-49.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.3,
+      "type": "Automatic",
+      "price": "410"
+   },
+   {
+      "name": "Tata Altroz",
+      "imageSrc": "/assets/car-50.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.5,
+      "type": "Automatic",
+      "price": "120"
+   },
+   {
+      "name": "Tata Curvv EV",
+      "imageSrc": "/assets/car-51.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.5,
+      "type": "Automatic",
+      "price": "210"
+   },
+   {
+      "name": "Tata Nexon",
+      "imageSrc": "/assets/car-52.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Electric",
+      "range": 8.2,
+      "type": "Automatic",
+      "price": "220"
+   },
+   {
+      "name": "Tata Safari",
+      "imageSrc": "/assets/car-53.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.2,
+      "type": "Automatic",
+      "price": "310"
+   },
+   {
+      "name": "Tata Tiago",
+      "imageSrc": "/assets/car-54.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.8,
+      "type": "Automatic",
+      "price": "120"
+   },
+   {
+      "name": "Toyota Fortuner",
+      "imageSrc": "/assets/car-55.webp",
+      "year": 2022,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.2,
+      "type": "Automatic",
+      "price": "290"
+   },
+   {
+      "name": "Toyota Hilux",
+      "imageSrc": "/assets/car-56.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 7.1,
+      "type": "Automatic",
+      "price": "310"
+   },
+   {
+      "name": "Toyota Innova",
+      "imageSrc": "/assets/car-57.webp",
+      "year": 2023,
+      "peopleCount": 7,
+      "gasType": "Gasoline",
+      "range": 7.2,
+      "type": "Automatic",
+      "price": "350"
+   },
+   {
+      "name": "Toyota Land Cruiser 300",
+      "imageSrc": "/assets/car-58.webp",
+      "year": 2023,
+      "peopleCount": 6,
+      "gasType": "Gasoline",
+      "range": 7.7,
+      "type": "Automatic",
+      "price": "370"
+   },
+   {
+      "name": "Toyota Rumion",
+      "imageSrc": "/assets/car-59.webp",
+      "year": 2023,
+      "peopleCount": 4,
+      "gasType": "Gasoline",
+      "range": 8.1,
+      "type": "Automatic",
+      "price": "340"
+   },
+   {
+      "name": "Toyota Supra",
+      "imageSrc": "/assets/car-60.jpg",
+      "year": 2023,
+      "peopleCount": 2,
+      "gasType": "Gasoline",
+      "range": 7.6,
+      "type": "Manual",
+      "price": "750"
+   }
+]
